@@ -1,52 +1,38 @@
 # 🧬 Keloid & Genodermatoses Lab (KGDLab)
 
 Welcome to the **Keloid & Genodermatoses Lab (KGDLab)**.  
-We focus on leveraging **genomics and advanced transcriptomic technologies** to better understand skin biology and disease.
+We focus on integrating **genomics and computational biology** to advance the understanding of skin diseases.
 
 ---
 
 ## 🔬 Research Scope
 
-Our work explores fundamental and translational aspects of dermatology, including:
+Our research explores key areas in dermatology:
 
-- Genetic skin disorders (genodermatoses)
-- Skin barrier biology and keratinocyte function
-- Fibrotic skin conditions such as keloids
-- Immune–skin interactions
+- Genetic skin disorders (genodermatoses)  
+- Skin barrier biology and keratinocyte function  
+- Fibrotic skin diseases (e.g., keloids)  
+- Immune–skin interactions  
 
 ---
 
 ## 🧪 Methods & Expertise
 
-We apply a range of modern computational and experimental approaches:
+We utilize modern multi-omics and computational approaches:
 
 - Bulk RNA sequencing  
 - Single-cell RNA sequencing (scRNA-seq)  
 - Spatial transcriptomics  
 - Genomic variant analysis  
 
-Our lab also develops reproducible bioinformatics workflows for integrative analysis.
-
 ---
 
-## 📚 Learning Resources
+## 📚 Education & Training Resources
 
-We actively develop educational materials for researchers and students in bioinformatics and computational biology:
+We provide structured learning materials for students and researchers entering bioinformatics.
 
-### 🔹 Interactive Tutorial
-- **scRNA-seq Interactive Tutorial**  
-  👉 https://charlene717.github.io/scrna-interactive-tutorial/  
-  Beginner-friendly, visualization-driven introduction to single-cell analysis  
-
----
-
-### 🔹 Workshops & Tutorials
-
-- **KGD Workshop 2025 Summer**  
-  https://github.com/KGDLab/KGD_Workshop_2025_Summer  
-
-- **How to Join KGDLab GitHub**  
-  https://github.com/KGDLab/How_to_Join_KGD_Lab_Github  
+### 🔹 Foundational Skills
+Core skills required for computational biology:
 
 - **Linux Basic Commands**  
   https://github.com/KGDLab/Linux_Basic_Commands  
@@ -54,17 +40,37 @@ We actively develop educational materials for researchers and students in bioinf
 - **R Basic Tutorial**  
   https://github.com/KGDLab/R_basic_tutorial  
 
-- **scRNA-seq Analysis Tutorial**  
-  https://github.com/KGDLab/scRNA-seq_analysis_tutorial  
-
 - **Statistics Tutorial**  
   https://github.com/KGDLab/stats_tutorial  
 
 ---
 
+### 🔹 Single-Cell Analysis Learning
+
+- **scRNA-seq Interactive Tutorial (Web-based)**  
+  https://charlene717.github.io/scrna-interactive-tutorial/  
+  → Beginner-friendly, interactive introduction  
+
+- **scRNA-seq Analysis Tutorial (Code-based)**  
+  https://github.com/KGDLab/scRNA-seq_analysis_tutorial  
+
+---
+
+### 🔹 Lab Training & Onboarding
+
+Resources for new lab members and collaborators:
+
+- **How to Join KGDLab GitHub**  
+  https://github.com/KGDLab/How_to_Join_KGD_Lab_Github  
+
+- **KGD Workshop 2025 Summer**  
+  https://github.com/KGDLab/KGD_Workshop_2025_Summer  
+
+---
+
 ## 🤝 Collaboration
 
-We welcome academic collaborations in:
+We welcome collaborations in:
 
 - Computational biology  
 - Dermatology research  
@@ -85,5 +91,3 @@ National Cheng Kung University
 ## 📌 Note
 
 Some repositories are private or under active development and are not publicly accessible.
-
----
