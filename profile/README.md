@@ -20,10 +20,10 @@ Our work explores fundamental and translational aspects of dermatology, includin
 
 We apply a range of modern computational and experimental approaches:
 
-- Bulk RNA sequencing
-- Single-cell RNA sequencing (scRNA-seq)
-- Spatial transcriptomics
-- Genomic variant analysis
+- Bulk RNA sequencing  
+- Single-cell RNA sequencing (scRNA-seq)  
+- Spatial transcriptomics  
+- Genomic variant analysis  
 
 Our lab also develops reproducible bioinformatics workflows for integrative analysis.
 
@@ -31,24 +31,34 @@ Our lab also develops reproducible bioinformatics workflows for integrative anal
 
 ## 📚 Learning Resources
 
-We actively build educational materials for researchers entering computational biology:
+We actively develop educational materials for researchers and students in bioinformatics and computational biology:
 
-### 🔹 scRNA-seq Interactive Tutorial
-An interactive, beginner-friendly tutorial for learning single-cell RNA-seq analysis:
-
-👉 https://charlene717.github.io/scrna-interactive-tutorial/
-
-- Covers core concepts and workflows  
-- Designed for biomedical researchers  
-- Hands-on and visualization-driven  
+### 🔹 Interactive Tutorial
+- **scRNA-seq Interactive Tutorial**  
+  👉 https://charlene717.github.io/scrna-interactive-tutorial/  
+  Beginner-friendly, visualization-driven introduction to single-cell analysis  
 
 ---
 
-## 💻 Selected Public Resources
+### 🔹 Workshops & Tutorials
 
-- `scRNA-interactive-tutorial` – Interactive learning platform for scRNA-seq  
-- `Git_Guide` – Practical Git/GitHub usage for research workflows  
-- `Bioinformatics_Visualization` – Data visualization examples in R  
+- **KGD Workshop 2025 Summer**  
+  https://github.com/KGDLab/KGD_Workshop_2025_Summer  
+
+- **How to Join KGDLab GitHub**  
+  https://github.com/KGDLab/How_to_Join_KGD_Lab_Github  
+
+- **Linux Basic Commands**  
+  https://github.com/KGDLab/Linux_Basic_Commands  
+
+- **R Basic Tutorial**  
+  https://github.com/KGDLab/R_basic_tutorial  
+
+- **scRNA-seq Analysis Tutorial**  
+  https://github.com/KGDLab/scRNA-seq_analysis_tutorial  
+
+- **Statistics Tutorial**  
+  https://github.com/KGDLab/stats_tutorial  
 
 ---
 
