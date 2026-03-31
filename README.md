@@ -1,107 +1,79 @@
-## Hi there 👋
 # 🧬 Keloid & Genodermatoses Lab (KGDLab)
 
 Welcome to the **Keloid & Genodermatoses Lab (KGDLab)**.  
-We focus on integrating **genomics, transcriptomics, and translational dermatology** to elucidate disease mechanisms and develop therapeutic strategies for skin disorders.
+We focus on leveraging **genomics and advanced transcriptomic technologies** to better understand skin biology and disease.
 
 ---
 
-## 🔬 Research Focus
+## 🔬 Research Scope
 
-Our research centers on the molecular and cellular mechanisms of skin diseases, particularly:
+Our work explores fundamental and translational aspects of dermatology, including:
 
-- **Genodermatoses**
-  - Palmoplantar keratoderma (PPK; KRT1/KRT9, SERPINB7)
-  - Epidermolysis bullosa (RDEB/DDEB)
-  - Dowling–Degos disease (DDD)
-
-- **Fibrotic Skin Disorders**
-  - Keloid and hypertrophic scar formation
-  - Fibroblast heterogeneity and extracellular matrix remodeling
-
-- **Inflammatory Skin Diseases**
-  - Immune–epidermal interactions
-  - Neutrophil and innate immune responses
+- Genetic skin disorders (genodermatoses)
+- Skin barrier biology and keratinocyte function
+- Fibrotic skin conditions such as keloids
+- Immune–skin interactions
 
 ---
 
-## 🧪 Technologies & Approaches
+## 🧪 Methods & Expertise
 
-We employ multi-scale approaches combining:
+We apply a range of modern computational and experimental approaches:
 
-- **Bulk RNA-seq**
-- **Single-cell RNA sequencing (scRNA-seq)**
-- **Spatial transcriptomics (Visium HD)**
-- **Whole-exome sequencing (WES)**
-- **3D skin models & functional assays**
+- Bulk RNA sequencing
+- Single-cell RNA sequencing (scRNA-seq)
+- Spatial transcriptomics
+- Genomic variant analysis
 
-Analytical frameworks include:
-
-- Seurat / Scanpy / Harmony
-- CellChat (cell–cell communication)
-- Pseudobulk differential expression (DESeq2 / edgeR)
-- Pathway enrichment (GO / KEGG / IPA)
-- Connectivity Map (L1000FWD) for drug repurposing
+Our lab also develops reproducible bioinformatics workflows for integrative analysis.
 
 ---
 
-## 🧬 Current Projects
+## 📚 Learning Resources
 
-- 🔹 **KRT1/KRT9-pEDD pathogenesis**
-  - EPGN–EGFR signaling in keratinocyte dysregulation
+We actively build educational materials for researchers entering computational biology:
 
-- 🔹 **SERPINB7-related NPPK**
-  - Transcriptomic stratification with/without fungal colonization
+### 🔹 scRNA-seq Interactive Tutorial
+An interactive, beginner-friendly tutorial for learning single-cell RNA-seq analysis:
 
-- 🔹 **Keloid single-cell atlas**
-  - CSPG4+ fibroblast populations and ECM remodeling
+👉 https://charlene717.github.io/scrna-interactive-tutorial/
 
-- 🔹 **RDEB disease modeling**
-  - Mouse models and spatial transcriptomics integration
-
----
-
-## 📊 Featured Repositories
-
-- `scRNA-interactive-tutorial`  
-  Interactive tutorials for single-cell analysis
-
-- `ST-pipeline-cellrefiner`  
-  Spatial transcriptomics pipeline with cell type refinement
-
-- `Public_Dataset_Prep`  
-  Standardized preprocessing workflows for public datasets
+- Covers core concepts and workflows  
+- Designed for biomedical researchers  
+- Hands-on and visualization-driven  
 
 ---
 
-## 🤝 Collaboration & Translational Impact
+## 💻 Selected Public Resources
 
-We collaborate with:
+- `scRNA-interactive-tutorial` – Interactive learning platform for scRNA-seq  
+- `Git_Guide` – Practical Git/GitHub usage for research workflows  
+- `Bioinformatics_Visualization` – Data visualization examples in R  
 
-- National Cheng Kung University Hospital (NCKU)
-- Taipei Veterans General Hospital
-- National Taiwan University Hospital
-- International partners in dermatogenetics
+---
 
-Our goal is to bridge **basic research → clinical application**, including:
+## 🤝 Collaboration
 
-- Biomarker discovery  
-- Disease classification refinement  
-- Therapeutic target identification  
+We welcome academic collaborations in:
+
+- Computational biology  
+- Dermatology research  
+- Translational medicine  
 
 ---
 
 ## 📫 Contact
 
 **Keloid & Genodermatoses Lab (KGDLab)**  
-Department of Dermatology, National Cheng Kung University  
+Department of Dermatology  
+National Cheng Kung University  
 
-🌐 https://twkgd.wordpress.com/685-2/  
+🌐 https://twkgd.wordpress.com/685-2/
 
 ---
 
-## 📌 Keywords
+## 📌 Note
 
-Genodermatoses · scRNA-seq · Spatial Transcriptomics · Dermatology · Fibrosis · Keratinocyte Biology · Translational Medicine
+Some repositories are private or under active development and are not publicly accessible.
 
 ---
