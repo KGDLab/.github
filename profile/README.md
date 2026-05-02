@@ -45,7 +45,7 @@ Core skills required for computational biology:
 
 ---
 
-### 🔹 Single-Cell Analysis Learning
+### 🔹 scRNA-seq Analysis Learning
 
 - **scRNA-seq Interactive Tutorial (Web-based)**  
   https://charlene717.github.io/scrna-interactive-tutorial/  
@@ -53,6 +53,14 @@ Core skills required for computational biology:
 
 - **scRNA-seq Analysis Tutorial (Code-based)**  
   https://github.com/KGDLab/scRNA-seq_analysis_tutorial  
+
+---
+
+### 🔹Spatial Transcriptomics Analysis Learning
+
+- **Spatial Transcriptomics Interactive Tutorial (Web-based)**  
+  https://charlene717.github.io/spatial-transcriptomics-interactive-tutorial/  
+  → Beginner-friendly, interactive introduction  
 
 ---
 
