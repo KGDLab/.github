@@ -40,8 +40,8 @@ Core skills required for computational biology:
 - **R Basic Tutorial**  
   https://github.com/KGDLab/R_basic_tutorial
 
-  - 📘 **Interactive Linux for Bioinformatics Tutorial**  
-https://charlene717.github.io/linux-bioinfo-interactive-tutorial/  
+- 📘 **Interactive Biostats Tutorial**  
+  https://charlene717.github.io/biostats-interactive-tutorial/ 
 
 - **Linux Basic Commands**  
   https://github.com/KGDLab/Linux_Basic_Commands  
